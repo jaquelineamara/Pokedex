@@ -1,0 +1,2 @@
+# Pokedex
+exercício pratico
